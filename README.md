@@ -42,7 +42,7 @@ To use this framework as part of your Maven build simply add the following depen
 <dependency>
   <groupId>com.dlsc.preferencesfx</groupId>
   <artifactId>preferencesfx-core</artifactId>
-  <version>11.7.0</version>
+  <version>11.8.0</version>
 </dependency>
 ```
 
@@ -60,7 +60,7 @@ dependencies {
 ### Java 11
 ```groovy
 dependencies {
-    compile group: 'com.dlsc.preferencesfx', name: 'preferencesfx-core', version: '11.7.0'
+    compile group: 'com.dlsc.preferencesfx', name: 'preferencesfx-core', version: '11.8.0'
 }
 ```
 
